@@ -1,0 +1,21 @@
+.userinfo{
+    width:20%;
+    background: #e6e6e6e6;
+}
+
+.user-profile{
+    height: 30%;
+    background: white;
+}
+
+.user-details{
+    height:20%;
+}
+
+.description{
+    background: white;
+    border-radius: 5px;
+    border: solid 1px grey;
+    margin:10px;
+    padding: 10px;
+}

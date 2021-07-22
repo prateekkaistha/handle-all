@@ -1,0 +1,26 @@
+.conversation{
+    width:20%;
+    background: white;
+    height: 100%;;
+}
+.conv-header{
+    border-bottom: 2px solid#f2f2f2f2;
+    width:100%;
+    height: 8%;
+    margin: 1px;
+}
+
+.ck-box{
+    margin:5px;
+    align-items: center;
+}
+.node-content{
+    margin:3px;
+}
+.conv-nodes{
+    border-bottom: 2px solid#f2f2f2f2;
+
+}
+.active{
+    background: #d4d4d3;
+}
